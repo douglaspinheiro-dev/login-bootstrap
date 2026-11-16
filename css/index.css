@@ -1,10 +1,18 @@
+body{
+    background-color: #1d5b3b4d;
+}
 main{
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    margin: 10px;
+    
 }
 
 .botoes{
     margin-top: 10px;
 }
+
+
+
